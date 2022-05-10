@@ -9,5 +9,6 @@
 #### 게임UI
 <img width="80%" src="https://user-images.githubusercontent.com/76869178/167536391-f6e11b68-e406-4174-90b1-b2e042084bb7.jpg"/>
 <img width="80%" src="https://user-images.githubusercontent.com/76869178/167536547-b6e4897d-c3f1-4ef7-b54f-f94985d13024.jpg"/>
-<img width="80%" src="https://user-images.githubusercontent.com/76869178/167536628-ba825a7e-3dcc-4cc5-8590-5f4644866a12.jpg"/>
-### [게임 실행파일 링크](https://drive.google.com/file/d/17nwtAPAwwXPQcT4v0hR1Hmw1EcnPIYSQ/view?usp=sharing)
+<img width="60%" src="https://user-images.githubusercontent.com/76869178/167536628-ba825a7e-3dcc-4cc5-8590-5f4644866a12.jpg"/>
+
+## [게임 실행파일 링크](https://drive.google.com/file/d/17nwtAPAwwXPQcT4v0hR1Hmw1EcnPIYSQ/view?usp=sharing)
