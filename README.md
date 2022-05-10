@@ -6,5 +6,4 @@
 인게임 목표는 주어진 총알안에서 마스크를 쓰지 않은 사람을 맞춰 제거하는 것입니다.
 적의 반경 안에 들어갈 시 공격을 당해 피해를 입으니 멀리서 총을 쏴서 총알을 조작하여 맞추도록 개발하려고 했습니다.
 
-[게임](https://github.com/Jaeun-Choi98/fps-game/files/8657175/20.ppt.pdf)
 ### [게임 실행파일 링크](https://drive.google.com/file/d/17nwtAPAwwXPQcT4v0hR1Hmw1EcnPIYSQ/view?usp=sharing)[팀20조 발표ppt.pdf](https://github.com/Jaeun-Choi98/fps-game/files/8657174/20.ppt.pdf)
